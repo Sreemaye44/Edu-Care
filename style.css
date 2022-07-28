@@ -1,9 +1,3 @@
-.carousel-item{
-    height: 100vh;
-}
-.carousel-caption{
-    bottom: 240px;
-}
 .brightness{
     filter: brightness(60%);
 }
